@@ -1,0 +1,13 @@
+{
+  "name": "akkomron-plugins",
+  "description": "akkomron's Claude Code plugins.",
+  "owner": { "name": "akkomron" },
+  "plugins": [
+    {
+      "name": "ai-project-patterns",
+      "source": "./",
+      "description": "House style for AI/ML research repositories: layout, living docs, CHANGELOG, commits, experiments.",
+      "version": "1.0.0"
+    }
+  ]
+}

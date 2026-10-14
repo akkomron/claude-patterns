@@ -1,0 +1,7 @@
+{
+  "name": "ai-project-patterns",
+  "version": "1.0.0",
+  "description": "House style for AI/ML research repositories: folder layout, living docs with one home per fact, a timestamped CHANGELOG, plain-English result-first commits, and one-variable-per-run experiments.",
+  "author": { "name": "akkomron" },
+  "keywords": ["machine-learning", "research", "repository-structure", "commit-messages", "changelog", "documentation"]
+}

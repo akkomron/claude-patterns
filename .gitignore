@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# The claude.ai upload zip, rebuilt from skills/ai-project-patterns/ (see README)
+dist/
